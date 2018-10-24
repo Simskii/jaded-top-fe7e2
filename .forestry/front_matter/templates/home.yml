@@ -20,4 +20,5 @@ fields:
   - work
   - contact
 pages:
+- content/posts/testar.md
 - content/_index.md
