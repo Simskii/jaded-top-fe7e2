@@ -1,6 +1,6 @@
 ---
 sections:
-- title: Intrommmmmm
+- title: Intro
   element_id: intro
   display_title: Hello.
   next_element_id: one
