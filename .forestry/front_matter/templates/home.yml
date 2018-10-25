@@ -20,5 +20,6 @@ fields:
   - work
   - contact
 pages:
+- content/asdasd.md
 - content/posts/testar.md
 - content/_index.md
